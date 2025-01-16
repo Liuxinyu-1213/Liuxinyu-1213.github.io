@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS Liu Xinyu is a PhD Pre-candidacy, School of Architecture, The Chinese University of Hong Kong .Her current research focuses on street vitality, based on data-driven analysis . Before that, she did MPhil of urban planning in the School of Architecture and Fine Arts, Dalian University of Technology and bachelor of engineering in the School of Architecture, Inner Mongolia University of Technology . Her previous research interested in Children friendly city and ethnic minority area design.
 
 Hugo makes use of a variety of open source projects including:
 
