@@ -1,25 +1,28 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "When your p-value is <0.05, but your will to continue is <0.01"
+date = "2025-01-20"
+aliases = ["about-me", "contact"]
+author = "Liu Xinyu"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS Liu Xinyu is a PhD Pre-candidacy, School of Architecture, The Chinese University of Hong Kong .Her current research focuses on street vitality, based on data-driven analysis . Before that, she did MPhil of urban planning in the School of Architecture and Fine Arts, Dalian University of Technology and bachelor of engineering in the School of Architecture, Inner Mongolia University of Technology . Her previous research interested in Children friendly city and ethnic minority area design.
+## 🔍 About Me
 
-Hugo makes use of a variety of open source projects including:
+I am a PhD Candidate in the Architecture Programme at the School of Architecture, The Chinese University of Hong Kong (CUHK). My research focuses on the interaction between urban design, human activities, and quality of life in high-density urban environments.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 💡 Research Focus:
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I study urban vitality in high-density environments using data-driven methods, focusing on Sham Shui Po, Hong Kong.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## 🛠 Skills:
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+- Data Analysis & Visualisation: Advanced proficiency in Python, R, and GIS tools.
+- Machine Learning: Experience with deep learning frameworks like TensorFlow and PyTorch, specialising in semantic segmentation.
+- Urban Analytics: Expertise in spatial data modelling and integrating socio-economic factors into urban planning.
+- Academic Writing: Strong background in publishing and presenting complex research insights.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 🌏 Key Contributions:
+
+I developed **a novel framework for assessing street vitality based on Maslow's hierarchy of needs**.
+I conducted **in-depth case studies on Sham Shui Po, Hong Kong, focusing on socio-economic and spatial heterogeneity**.
+I leveraged **computational techniques to identify mismatches in pedestrian vitality perception**.
