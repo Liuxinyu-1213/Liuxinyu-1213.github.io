@@ -16,10 +16,10 @@ I study urban vitality in high-density environments using data-driven methods, f
 
 ## 🛠 Skills:
 
-- Data Analysis & Visualisation: Advanced proficiency in Python, R, and GIS tools.
-- Machine Learning: Experience with deep learning frameworks like TensorFlow and PyTorch, specialising in semantic segmentation.
-- Urban Analytics: Expertise in spatial data modelling and integrating socio-economic factors into urban planning.
-- Academic Writing: Strong background in publishing and presenting complex research insights.
+- Data Analysis & Visualisation: Advanced proficiency in **Python**, **R**, and **GIS** tools.
+- Machine Learning: Experience with deep learning frameworks like **TensorFlow** and **PyTorch**, specialising in **semantic segmentation**.
+- Urban Analytics: Expertise in **spatial data modelling** and integrating **socio-economic factors** into urban planning.
+- Academic Writing: Strong background in publishing and presenting **complex research insights**.
 
 ## 🌏 Key Contributions:
 
